@@ -1,0 +1,1 @@
+<content_of_src/utils/contentGenerator.ts>
